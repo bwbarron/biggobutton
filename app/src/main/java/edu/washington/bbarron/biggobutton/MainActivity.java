@@ -26,7 +26,7 @@ public class MainActivity extends ActionBarActivity {
                 count++;
                 button.setText("You have pushed me " + count + " times!");
             }
-        } );
+        });
     }
 
     @Override
